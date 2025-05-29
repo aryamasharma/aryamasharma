@@ -1,6 +1,6 @@
 # Hi, I'm Aryama 👋
 
-🎓 CS @ Gettysburg College  
+🎓 Computer Science and Mathematics @ Gettysburg College  
 🛠️ Interests: Machine Learning, Web Dev, Robotics  
 🌱 Currently working on: Roommate Finder (an app that helps you find roommates in your university)
 💌 Let's connect: [LinkedIn](https://linkedin.com/in/aryamasharma) | [Email](mailto:aryama.subbu@gmail.com)
